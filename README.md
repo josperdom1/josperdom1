@@ -1,12 +1,12 @@
 # josperdom1
 
-👋 Hey there!
+## 👋 Hey there!
 I’m J. Andrés Pérez, a software architect and backend architect at Refleca (Zennio) pioneering scalable KNX home automation platforms passionate about building robust, scalable systems that blend clean design with high performance.
 I focus on crafting well-structured applications using Domain-Driven Design, Hex architecture, Event Driven Design, CQRS, and modern backend frameworks.
 
 Passionate about the new era of software architecture powered by AI.
 
-### 💡 Skills & Ecosystem
+### 💡 Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -15,6 +15,9 @@ Passionate about the new era of software architecture powered by AI.
 | **Quality & Ops** | <img width="32" height="32" alt="jest" src="https://github.com/user-attachments/assets/bff6c853-834e-4820-b681-d0b411dda491" /> <img width="32" height="32" alt="git" src="https://github.com/user-attachments/assets/8d73b394-dd20-4454-aed6-26cd3d809990" /> <img width="32" height="32" alt="bash" src="https://github.com/user-attachments/assets/846403b3-c90d-469d-b05a-a573be934ff6" /> |
 | **Environment** | <img width="32" height="32" alt="arch" src="https://github.com/user-attachments/assets/9bf1e965-6f68-42a5-9669-248371b32ff7" /> <img width="32" height="32" alt="neovim" src="https://github.com/user-attachments/assets/77a04e2a-dcfe-4c35-ada6-9bfdb3b3e7bb" /> |
 
+
+### 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
